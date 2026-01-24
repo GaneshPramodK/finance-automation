@@ -1,0 +1,30 @@
+{
+    "RTL MGMT CHRG RATE =": {
+        "Category": "Misc",
+        "Sub-Category": "Management Fee"
+    },
+    "FPX-STOREHUB SDN BHD REHUB MHKKQ08X MY": {
+        "Category": "Shopping",
+        "Sub-Category": "Software/SaaS"
+    },
+    "GANESH PRAMOD KARUNAAUTOPAY CARD": {
+        "Category": "Transfers",
+        "Sub-Category": "Personal Transfer"
+    },
+    "OMISE*HEYJOM M4 PETALING JAYA MY": {
+        "Category": "Shopping",
+        "Sub-Category": "Online Retail"
+    },
+    "AIA-RPS 4155910A04 KUALA LUMPUR MY": {
+        "Category": "Insurance",
+        "Sub-Category": "Life/Retirement Premium"
+    },
+    "AIA HEALTH VA35551268 KUALA LUMPUR MY": {
+        "Category": "Insurance",
+        "Sub-Category": "Health Insurance Premium"
+    },
+    "SPOTIFY M4 STOCKHOLM SE": {
+        "Category": "Entertainment",
+        "Sub-Category": "Music Streaming"
+    }
+}
